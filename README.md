@@ -1,4 +1,4 @@
-[![MasterHead](https://lh3.googleusercontent.com/E7Wcaf_vwSYku5WuvP0-3i5n3bV3um0TkQQpPkIBOmhsJshaVV7_-bORucqrr3pOLj0=w2400)](https://khan4527.github.io/)
+[![MasterHead](https://lh3.googleusercontent.com/E7Wcaf_vwSYku5WuvP0-3i5n3bV3um0TkQQpPkIBOmhsJshaVV7_-bORucqrr3pOLj0=w2400)](https://khanahmad4527.github.io/)
 
 <h1 align="center">Hi 👋, I'm Ahmad Khan</h1>
 
