@@ -43,7 +43,6 @@
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 	<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-	<img src="https://img.shields.io/badge/-npm-red?logo=npm&logoColor=white&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-cypress-gray?logo=cypress&logoColor=white&style=for-the-badge" />
 </p>
 
@@ -51,7 +50,6 @@
 <h3 align="left">Tools:</h3>
 <p align="left">
 	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-	<img src="https://img.shields.io/badge/-git-f1502f?logo=git&logoColor=white&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-vscode-blue?logo=visualstudio&logoColor=white&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
