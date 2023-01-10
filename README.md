@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **khanahmad4527@gmail.com**
 
-- 📄 Know about my experiences [https://khan4527.github.io/static/media/Ahmad-Khan-Resume.7434e456633fc18410e7.pdf](https://drive.google.com/uc?id=14xQ3jd2ktenVIdvL8SkSQjf5lTnUyj7b&export=download)
+- 📄 Know about my experiences (https://drive.google.com/uc?id=14xQ3jd2ktenVIdvL8SkSQjf5lTnUyj7b&export=download)
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
