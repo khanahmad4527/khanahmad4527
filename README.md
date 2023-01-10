@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khan4527&label=Profile%20views&color=0e75b6&style=flat" alt="khan4527" /> </p>
 
 
-- Checkout my portfolio [https://khan4527.github.io/](https://khan4527.github.io/)
+- Checkout my portfolio [https://khanahmad4527.github.io/](https://khanahmad4527.github.io/)
 
 - 📫 How to reach me **khanahmad4527@gmail.com**
 
@@ -61,11 +61,11 @@
 
 <h3 align="left">Stats:</h3>
 <p  align="left">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=khan4527&show_icons=true&locale=en" alt="khan4527" />
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khan4527&" alt="khan4527" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanahmad4527&show_icons=true&locale=en" alt="khan4527" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanahmad4527&" alt="khan4527" />
 </p>
 
 <h3 align="left">Most used languages:</h3>
 <p  align="left">
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khan4527&show_icons=true&locale=en&layout=compact" alt="khan4527" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanahmad4527&show_icons=true&locale=en&layout=compact" alt="khan4527" />
 </p>
