@@ -65,5 +65,5 @@
 
 <h3 align="left">Most used languages:</h3>
 <p  align="left">
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanahmad4527&show_icons=true&locale=en&layout=compact" alt="khan4527" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanahmad4527" alt="khan4527" />
 </p>
