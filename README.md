@@ -59,11 +59,11 @@
 
 <h3 align="left">Stats:</h3>
 <p  align="left">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanahmad4527&title_color=005685&text_color=005685&icon_color=005685&bg_color=ffffff&border_radius=10&border_color=005685" alt="khanahmad4527" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanahmad4527&" alt="khanahmad4527"/>
 </p>
 
 <p  align="left">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanahmad4527&" alt="khanahmad4527"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanahmad4527&show_icons=true&title_color=005685&text_color=005685&icon_color=005685&bg_color=ffffff&border_radius=10&border_color=005685" alt="khanahmad4527" />
 </p>
 
 <h3 align="left">Most used languages:</h3>
