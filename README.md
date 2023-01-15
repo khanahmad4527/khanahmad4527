@@ -59,7 +59,7 @@
 
 <h3 align="left">Stats:</h3>
 <p  align="left">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanahmad4527&" alt="khanahmad4527"/>
+	<img align="center" src="https://streak-stats.demolab.com?user=khanahmad4527&theme=sea&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=005685" alt="khanahmad4527"/>
 </p>
 
 <p  align="left">
