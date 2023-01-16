@@ -62,10 +62,6 @@
 	<img align="center" src="https://streak-stats.demolab.com?user=khanahmad4527&theme=sea&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=005685" alt="khanahmad4527"/>
 </p>
 
-<p  align="left">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanahmad4527&show_icons=true&title_color=005685&text_color=005685&icon_color=005685&bg_color=ffffff&border_radius=10&border_color=005685" alt="khanahmad4527" />
-</p>
-
 <h3 align="left">Most used languages:</h3>
 <p  align="left">
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanahmad4527&title_color=005685&text_color=005685&icon_color=005685&bg_color=ffffff&border_radius=10&border_color=005685" alt="khanahmad4527" />
