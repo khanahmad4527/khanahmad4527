@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [*Portfolio*](https://khanahmad4527.github.io/)
 
+- 📫 How to reach me **khanahmad4527@gmail.com**
+
 - 📄 Know about my experiences [*Resume*](https://drive.google.com/uc?id=14xQ3jd2ktenVIdvL8SkSQjf5lTnUyj7b&export=download)
 
 <h3 align="left">Social Media:</h3>
@@ -15,7 +17,7 @@
 	<a href="https://www.linkedin.com/in/khanahmad4527/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-        <a href="mailto:khanahmad4527@gmail.com" target="_blank">
+        <a href="khanahmad4527@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 	<a href="https://www.youtube.com/@khanahmad452" target="_blank">
