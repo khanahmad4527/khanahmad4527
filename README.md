@@ -17,9 +17,6 @@
 	<a href="https://www.linkedin.com/in/khanahmad4527/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-        <a href="khanahmad4527@gmail.com" target="_blank">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
 	<a href="https://www.youtube.com/@khanahmad452" target="_blank">
 		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 	</a>
