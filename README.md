@@ -7,7 +7,7 @@
 
 - Checkout my portfolio [https://khanahmad4527.github.io/](https://khanahmad4527.github.io/)
 
-- 📫 How to reach me khanahmad4527@gmail.com
+- 📫 How to reach me [khanahmad4527@gmail.com](https://khanahmad4527.github.io/)
 
 - 📄 Know about my experiences [Ahmad-Khan-Resume.pdf](https://drive.google.com/uc?id=14xQ3jd2ktenVIdvL8SkSQjf5lTnUyj7b&export=download)
 
