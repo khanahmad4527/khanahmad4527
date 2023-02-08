@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [*Portfolio*](https://khanahmad4527.github.io/)
 
-- 📫 How to reach me khanahmad4527<span>@gmail.com<span>
+- 📫 How to reach me khanahmad4527<span>@gmail.com<span
 
 - 📄 Know about my experiences [*Resume*](https://drive.google.com/uc?id=14xQ3jd2ktenVIdvL8SkSQjf5lTnUyj7b&export=download)
 
