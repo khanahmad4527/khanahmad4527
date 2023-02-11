@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khan4527&label=Profile%20views&color=0e75b6&style=flat" alt="khan4527" /> </p>
 
-## 💫 About me:
+## 💫 About me-
 
 - 👨‍💻 All of my projects are available at [*Portfolio*](https://khanahmad4527.github.io/)
 
