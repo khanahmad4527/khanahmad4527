@@ -6,11 +6,11 @@
 
 ## 💫 About me-
 
-- 👨‍💻 All of my projects are available at [*Portfolio*](https://khanahmad4527.github.io/)
+- 👨‍💻 All of my projects are available at [*Portfolio*](https://portfolio.khanahmad4527.workers.dev/)
 
 - 📫 How to reach me khanahmad4527<span>@gmail.com<span>
 
-- 📄 Know about my experiences [*Resume*](https://drive.google.com/uc?id=14xQ3jd2ktenVIdvL8SkSQjf5lTnUyj7b&export=download)
+- 📄 Know about my experiences [*Resume*](https://drive.google.com/file/d/1z1hFvKyRcgWK3a__Ay-FRz29rDwK4_to/view?usp=sharing)
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
