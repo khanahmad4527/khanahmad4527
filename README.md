@@ -1,7 +1,3 @@
-[![MasterHead](https://res.cloudinary.com/dh0achfh3/image/upload/v1673934119/github-header_c00zu6.png)](https://portfolio.khanahmad4527.workers.dev/)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanahmad4527&label=Profile%20views&color=0e75b6&style=flat" alt="khanahmad4527" /> </p>
-
 ## About me-
 
 - Directus expert & full-stack developer — I build multilingual, event-driven web platforms end to end
