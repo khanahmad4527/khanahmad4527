@@ -1,4 +1,4 @@
-## About me-
+## About me
 
 - Directus expert & full-stack developer — I build multilingual, event-driven web platforms end to end
 
